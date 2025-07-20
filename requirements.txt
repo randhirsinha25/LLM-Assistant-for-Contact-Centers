@@ -1,0 +1,8 @@
+streamlit
+openai
+requests
+python-dotenv  
+httpx          
+pydantic      
+PyYAML         
+jsonschema     
