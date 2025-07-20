@@ -17,6 +17,9 @@ Smart UI: Auto-sizes output display and enables file downloads.
 <img width="1269" height="640" alt="image (6)" src="https://github.com/user-attachments/assets/c04d5cdb-19b4-4948-9991-8dd7f6259916" />
 <img width="1259" height="621" alt="image (7)" src="https://github.com/user-attachments/assets/8ad70f13-d596-42b2-83d2-c2f746543668" />
 <img width="1253" height="615" alt="image (8)" src="https://github.com/user-attachments/assets/218dc503-4173-4d0e-bde1-dc4de37cd434" />
+<img width="1256" height="619" alt="image (9)" src="https://github.com/user-attachments/assets/c0f63f1b-1f40-4159-80dc-adb9593af544" />
+<img width="1259" height="625" alt="image (10)" src="https://github.com/user-attachments/assets/4d43b502-3a24-458e-b2a7-57e24e759229" />
+
 
 
 
