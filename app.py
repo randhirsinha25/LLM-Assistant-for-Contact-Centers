@@ -19,7 +19,7 @@ def data_clean(processed_text):
     dynamic_height = min(max_height, max(min_height, line_count * line_height))
     
     # Display text area
-    st.text_area("Output", value=processed_text, height=dynamic_height)
+    st.text_area("Output", value=processed_text, height=dynamic_height,key="output_text_area")
 def download():
         # Path to your file
     file_path = "reply_recordings.xlsx"
